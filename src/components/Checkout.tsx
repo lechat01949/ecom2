@@ -1,4 +1,4 @@
-gimport React, { useState } from 'react';
+import React, { useState } from 'react';
 import { Shield, Truck, RefreshCw, Star, CreditCard, Lock } from 'lucide-react';
 
 const Checkout = () => {
